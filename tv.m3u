@@ -1,201 +1,84 @@
 #EXTM3U
-#EXTINF:0 tvg-country="DZ;AM;BH;BR;BG;CA;CL;EG;DE;MX;RS" tvg-logo="https://i.imgur.com/HSKeS3G.png" group-title="Music;MEXICO",A Son de Salsa (720p) [Not 24/7]
 https://cloud01.mipaneltv.xyz/asondesalsa/asondesalsa/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="MX" tvg-logo="http://ltv-reloaded.xyz:2095/images/tvlogos/ae.png" group-title="Undefined",A&E HD
+#EXTINF:0 tvg-country="MX" tvg-logo="http://ltv-reloaded.xyz:2095/images/tvlogos/ae.png" group-title="Mexico",A&E HD
 http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/81947?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="MX" tvg-logo="https://cdn.mitvstatic.com/channels/sv_a-e-mundo_m.png" group-title="Undefined",A&E SD
+#EXTINF:0 tvg-country="MX" tvg-logo="https://cdn.mitvstatic.com/channels/sv_a-e-mundo_m.png" group-title="Mexico",A&E SD
 http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/81780?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="MX" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/51/A%2BMexico.jpg/220px-A%2BMexico.jpg" group-title="Undefined",A+
-http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/81930?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="MX" tvg-logo="http://mylatinotv.com:8080/images/mexico/A+.png" group-title="Undefined",A+ HD
-http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/81762?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="MX" tvg-logo="http://mylatinotv.com:8080/images/mexico/A+.png" group-title="Undefined",A+ SD
-http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/81926?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="MX" tvg-logo="http://mylatinotv.com:8080/images/mexico/A+.png" group-title="Undefined",A+ SD.
-http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/81756?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="MX" tvg-logo="https://fotografias.atresmediapublicidad.com/clipping/cmsimages01/2015/11/10/80BBD3A5-3843-4BCE-AA2D-8064DC738680/default.jpg" group-title="Undefined",A3 Series HD
-http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/81946?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="MX" tvg-logo="" group-title="MEXICO",ADN 40 (480p)
-https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="MX" tvg-logo="https://i.imgur.com/9n17TjZ.png" group-title="Undefined",ADN40 HD
-http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/81983?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="MX" tvg-logo="https://i.imgur.com/9n17TjZ.png" group-title="Undefined",ADN40 SD
-http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/81825?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="MX" tvg-logo="http://mylatinotv.com:8080/images/mexico/Al.jazeera.png" group-title="Undefined",AL JAZZERA SD
-http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/81803?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="MX" tvg-logo="http://ltv-reloaded.xyz:2095/images/tvlogos/amc.png" group-title="Undefined",AMC HD
-http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/81694?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="MX" tvg-logo="http://ltv-reloaded.xyz:2095/images/tvlogos/amc.png" group-title="Undefined",AMC HD
-http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/81863?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="MX" tvg-logo="http://ltv-reloaded.xyz:2095/images/tvlogos/amc.png" group-title="Undefined",AMC SD
-http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/81689?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="MX" tvg-logo="http://mylatinotv.com:8080/images/espana/antena3.jpg" group-title="Undefined",ANTENA3 HD
-http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/81956?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="MX" tvg-logo="http://mylatinotv.com:8080/images/espana/antena3.jpg" group-title="Undefined",ANTENA3 SD
-http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/81792?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="DZ;AM;BH;BR;BG;CA;CL;EG;DE;MX;RS" tvg-logo="https://i.imgur.com/eUzYZfg.png" group-title="General;MEXICO",ATV (480p) [Not 24/7]
-https://dysmuyxh5vstv.cloudfront.net/hls/live.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="DZ;AM;BH;BR;BG;CA;CL;EG;DE;MX;RS" tvg-logo="https://i.imgur.com/fY9256H.png" group-title="News;MEXICO",ATV+ Noticias (480p) [Not 24/7]
-https://dysmuyxh5vstv.cloudfront.net/hls/atv2.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="MX" tvg-logo="https://cdn.mitvstatic.com/channels/cl_az-cinema_m.png" group-title="Undefined",AZ Cinema HD
-http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/81869?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="MX" tvg-logo="https://condista.com/wp-content/uploads/2018/08/az-clic-2.png" group-title="Undefined",AZ Click B1
-http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/81844?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="MX" tvg-logo="https://cdn.mitvstatic.com/channels/mx_az-corazon_m.png" group-title="Undefined",AZ Corazon HD
-http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/81912?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="MX" tvg-logo="https://cdn.mitvstatic.com/channels/co_az-mundo-hd_m.png" group-title="Undefined",AZ Mundo
-http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/81900?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="MX" tvg-logo="https://i.imgur.com/RrQZvyy.png" group-title="Undefined",AZTECA CLICK SD
-http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/81835?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="MX" tvg-logo="" group-title="Undefined",Al Jazeera HD
-http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/81966?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="MX;ES" tvg-logo="https://i.imgur.com/9Xn7ZEZ.jpg" group-title="Undefined",Alcarria TV
-http://217.182.77.27/live/alcarriatv-livestream.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="MX" tvg-logo="https://i.imgur.com/9n17TjZ.png" group-title="Undefined",Axn HD
-http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/81778?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="MX" tvg-logo="https://i.imgur.com/9n17TjZ.png" group-title="Undefined",Axn HD
-http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/81945?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="MX" tvg-logo="https://i.imgur.com/fympeSA.jpg" group-title="Undefined",Axn Vip
-http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/16518?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="MX" tvg-logo="https://i.imgur.com/89YGlxB.png" group-title="Sport",AyM Sports HD
-http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/81851?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="MX" tvg-logo="https://cdn.mitvstatic.com/channels/mx_azteca-13_m.png" group-title="Undefined",Azteca 1 HD Opc 2
+#EXTINF:0 tvg-country="MX" tvg-logo="https://cdn.mitvstatic.com/channels/mx_azteca-13_m.png" group-title="Mexico",Azteca 1 HD Opc 2
 http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/81987?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="MX" tvg-logo="https://cdn.mitvstatic.com/channels/mx_azteca-13_m.png" group-title="Undefined",Azteca 1 Opc 2 SD
+#EXTINF:0 tvg-country="MX" tvg-logo="https://cdn.mitvstatic.com/channels/mx_azteca-13_m.png" group-title="Mexico",Azteca 1 Opc 2 SD
 http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/81753?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="MX" tvg-logo="https://cdn.mitvstatic.com/channels/mx_azteca-13_m.png" group-title="Undefined",Azteca 1 SD
+#EXTINF:0 tvg-country="MX" tvg-logo="https://cdn.mitvstatic.com/channels/mx_azteca-13_m.png" group-title="Mexico",Azteca 1 SD
 http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/81815?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="MX" tvg-logo="https://cdn.mitvstatic.com/channels/mx_azteca-7_m.png" group-title="Undefined",Azteca 7 HD
+#EXTINF:0 tvg-country="MX" tvg-logo="https://cdn.mitvstatic.com/channels/mx_azteca-7_m.png" group-title="Mexico",Azteca 7 HD
 http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/81950?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="MX" tvg-logo="https://cdn.mitvstatic.com/channels/mx_azteca-7_m.png" group-title="Undefined",Azteca 7 HD Opc 1
+#EXTINF:0 tvg-country="MX" tvg-logo="https://cdn.mitvstatic.com/channels/mx_azteca-7_m.png" group-title="Mexico",Azteca 7 HD Opc 1
 http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/81963?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="MX" tvg-logo="https://cdn.mitvstatic.com/channels/mx_azteca-7_m.png" group-title="Undefined",Azteca 7 SD
+#EXTINF:0 tvg-country="MX" tvg-logo="https://cdn.mitvstatic.com/channels/mx_azteca-7_m.png" group-title="Mexico",Azteca 7 SD
 http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/81990?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="MX" tvg-logo="https://cdn.mitvstatic.com/channels/mx_azteca-7_m.png" group-title="Undefined",Azteca 7 SD Opc 3
+#EXTINF:0 tvg-country="MX" tvg-logo="https://cdn.mitvstatic.com/channels/mx_azteca-7_m.png" group-title="Mexico",Azteca 7 SD Opc 3
 http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/81798?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="MX" tvg-logo="https://cdn.mitvstatic.com/channels/mx_azteca-7_m.png" group-title="Undefined",Azteca 7 SD Opc 4
+#EXTINF:0 tvg-country="MX" tvg-logo="https://cdn.mitvstatic.com/channels/mx_azteca-7_m.png" group-title="Mexico",Azteca 7 SD Opc 4
 http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/81802?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="MX" tvg-logo="https://cdn.mitvstatic.com/channels/mx_azteca-7_m.png" group-title="Undefined",Azteca 7 SD.
+#EXTINF:0 tvg-country="MX" tvg-logo="https://cdn.mitvstatic.com/channels/mx_azteca-7_m.png" group-title="Mexico",Azteca 7 SD.
 http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/81832?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="MX" tvg-logo="https://cdn.mitvstatic.com/channels/cl_az-cinema_m.png" group-title="Undefined",Azteca Cinema SD
+#EXTINF:0 tvg-country="MX" tvg-logo="https://cdn.mitvstatic.com/channels/cl_az-cinema_m.png" group-title="Mexico",Azteca Cinema SD
 http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/81701?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="MX" tvg-logo="https://i.imgur.com/cOf7mXM.png" group-title="Undefined",Azteca Click HD
+#EXTINF:0 tvg-country="MX" tvg-logo="https://i.imgur.com/cOf7mXM.png" group-title="Mexico",Azteca Click HD
 http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/81993?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="MX" tvg-logo="https://cdn.mitvstatic.com/channels/mx_az-corazon_m.png" group-title="Undefined",Azteca Corazon HD
+#EXTINF:0 tvg-country="MX" tvg-logo="https://cdn.mitvstatic.com/channels/mx_az-corazon_m.png" group-title="Mexico",Azteca Corazon HD
 http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/81861?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="MX" tvg-logo="https://cdn.mitvstatic.com/channels/mx_az-corazon_m.png" group-title="Undefined",Azteca Corazon SD
+#EXTINF:0 tvg-country="MX" tvg-logo="https://cdn.mitvstatic.com/channels/mx_az-corazon_m.png" group-title="Mexico",Azteca Corazon SD
 http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/81693?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="MX" tvg-logo="https://cdn.mitvstatic.com/channels/mx_az-corazon_m.png" group-title="Undefined",Azteca Corazon SD.
+#EXTINF:0 tvg-country="MX" tvg-logo="https://cdn.mitvstatic.com/channels/mx_az-corazon_m.png" group-title="Mexico",Azteca Corazon SD.
 http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/81743?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="MX" tvg-logo="https://cdn.mitvstatic.com/channels/co_az-mundo-hd_m.png" group-title="Undefined",Azteca Mundo SD
+#EXTINF:0 tvg-country="MX" tvg-logo="https://cdn.mitvstatic.com/channels/co_az-mundo-hd_m.png" group-title="Mexico",Azteca Mundo SD
 http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/81732?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="MX" tvg-logo="http://mylatinotv.com:8080/images/mexico/aztecauno.png" group-title="Undefined",Azteca UNO
+#EXTINF:0 tvg-country="MX" tvg-logo="http://mylatinotv.com:8080/images/mexico/aztecauno.png" group-title="Mexico",Azteca UNO
 http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/81923?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="MX" tvg-logo="https://i.imgur.com/5FkjvqF.jpg" group-title="Undefined",Azteca UNO HD
+#EXTINF:0 tvg-country="MX" tvg-logo="https://i.imgur.com/5FkjvqF.jpg" group-title="Mexico",Azteca UNO HD
 http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/81974?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="MX" tvg-logo="https://i.imgur.com/f1hE6cL.jpg" group-title="Undefined",Azteca UNO.
+#EXTINF:0 tvg-country="MX" tvg-logo="https://i.imgur.com/f1hE6cL.jpg" group-title="Mexico",Azteca UNO.
 http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/81837?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="MX" tvg-logo="https://i.imgur.com/f1hE6cL.jpg" group-title="Undefined",Azteca UNO..
+#EXTINF:0 tvg-country="MX" tvg-logo="https://i.imgur.com/f1hE6cL.jpg" group-title="Mexico",Azteca UNO..
 http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/81829?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="MX" tvg-logo="https://i.imgur.com/8AegVdL.jpg" group-title="Undefined",BANDAMAX SD
-http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/81668?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="MX" tvg-logo="https://i.imgur.com/PBBQlwy.jpg" group-title="Undefined",Bandamax SD
-http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/81839?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="MX" tvg-logo="https://i.imgur.com/cOv9h92.png" group-title="Undefined",Bitme HD
-http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/97345?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="MX" tvg-logo="https://i.imgur.com/cOv9h92.png" group-title="Undefined",Bitme SD
-http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/109115?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="MX" tvg-logo="https://fontmeme.com/images/Bloomberg-Television-Logo.jpg" group-title="Undefined",Bloomberg HD
-http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/81937?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="MX" tvg-logo="https://fontmeme.com/images/Bloomberg-Television-Logo.jpg" group-title="Undefined",Bloomberg HD
-http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/81968?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="MX" tvg-logo="https://www.contrareplica.mx/uploads/normal/fd04fbe0e16b3367fe090d478651b663.jpg" group-title="Undefined",CANAL Once HD
-http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/81988?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="MX" tvg-logo="https://www.contrareplica.mx/uploads/normal/fd04fbe0e16b3367fe090d478651b663.jpg" group-title="Undefined",CANAL Once SD
-http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/81830?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="MX" tvg-logo="https://i.pinimg.com/originals/b3/5d/13/b35d13fb9996e6932db680003ccf0220.png" group-title="Undefined",CINECANAL SD
-http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/81700?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="MX" tvg-logo="http://mylatinotv.com:8080/images/mexico/cadah.png" group-title="Undefined",Cadena H
-http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/81821?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="MX" tvg-logo="https://i.imgur.com/k6Y2eM2.jpg" group-title="Undefined",Cadena H HD
-http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/81979?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="MX" tvg-logo="https://i.imgur.com/k6Y2eM2.jpg" group-title="Undefined",Cadena H SD
-http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/81660?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="MX" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Ffreeetv.com%2Flive-television-4216.html&psig=AOvVaw1kq0KvovwZjOLDxpihsN-f&ust=1591159995670000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIjDo4Wr4ukCFQAAAAAdAAAAABAH" group-title="Undefined",Canal 10 Cancun
-http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/1148674?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="MX" tvg-logo="https://i.imgur.com/vakdxny.jpg" group-title="Undefined",Canal 10 Cancún
-http://stream2.dynalias.com:1935/live/tvlive1/chunklist_w1211325251.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="MX" tvg-logo="https://i.imgur.com/vakdxny.jpg" group-title="Undefined",Canal 10 Cancún
-http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="MX" tvg-logo="https://www.foromedios.com/uploads/monthly_2017_11/canal14.png.8e09339834d7a51b01ca91078439fab1.png" group-title="Undefined",Canal 14 SPR Noticias
-http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/1162186?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="MX" tvg-logo="https://i.imgur.com/7zbKyOm.jpg" group-title="Undefined",Canal 22
-http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/1140800?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="MX" tvg-logo="https://pbs.twimg.com/profile_images/804763122330275840/rjSNplz1_400x400.jpg" group-title="Undefined",Canal 26 Aguascalientes HD
-http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/81944?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="MX" tvg-logo="https://pbs.twimg.com/profile_images/804763122330275840/rjSNplz1_400x400.jpg" group-title="Undefined",Canal 26 Aguascalientes SD
-http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/81776?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="MX" tvg-logo="" group-title="MEXICO",Canal 28 (720p) [Not 24/7]
-https://api.new.livestream.com/accounts/3789491/events/8003011/live.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="MX" tvg-logo="https://www.tvcuatro.com/logo%201024.png" group-title="Undefined",Canal 4 HD
-http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/81921?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="MX" tvg-logo="https://i.imgur.com/5marY43.png" group-title="Undefined",Canal 5 HD
+#EXTINF:0 tvg-country="MX" tvg-logo="https://i.imgur.com/5marY43.png" group-title="Mexico",Canal 5 HD
 http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/81991?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="MX" tvg-logo="https://i.imgur.com/5marY43.png" group-title="Undefined",Canal 5 SD
+#EXTINF:0 tvg-country="MX" tvg-logo="https://i.imgur.com/5marY43.png" group-title="Mexico",Canal 5 SD
 http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/81833?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="MX" tvg-logo="https://3.bp.blogspot.com/-_j6NvbVLNgk/WP9R0gMkRJI/AAAAAAAAAfA/0UKTacUUy3ALsjvT7Jr8LSfqDTIzvO_hgCLcB/s400/la_tarde_show.png" group-title="Undefined",Canal 8 HD
-http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/81928?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="MX" tvg-logo="https://3.bp.blogspot.com/-_j6NvbVLNgk/WP9R0gMkRJI/AAAAAAAAAfA/0UKTacUUy3ALsjvT7Jr8LSfqDTIzvO_hgCLcB/s400/la_tarde_show.png" group-title="Undefined",Canal 8 SD
-http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/81759?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AF;DZ;AM;AU;BB;BR;BG;FR;GR;MX;YE" tvg-logo="https://www.canalvip.tv/images/logo/logo_canal_vip_con_alfa.png" group-title="Undefined;FRANCE;MEXICO",Canal VIP
-https://play.cdn.enetres.net/B9E570CFE54949C7ABB985D4F8F77F7F0211/02267/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="MX" tvg-logo="https://i.imgur.com/YSNzvpM.png" group-title="Undefined",Canal del Congreso SD
-http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/81924?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="MX" tvg-logo="https://www.capital21.cdmx.gob.mx/assets/img/programas_lat/logo.png" group-title="Undefined",Capital 21
-https://video.cdmx.gob.mx/livestream/stream.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="MX" tvg-logo="https://i.imgur.com/ywzBaS0.jpg" group-title="Undefined",Cartoon Network 1 Turgo
+#EXTINF:0 tvg-country="MX" tvg-logo="https://i.imgur.com/ywzBaS0.jpg" group-title="Mexico",Cartoon Network 1 Turgo
 http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/19087?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="MX" tvg-logo="https://i.imgur.com/ywzBaS0.jpg" group-title="Undefined",Cartoon Network 2 Turgo
+#EXTINF:0 tvg-country="MX" tvg-logo="https://i.imgur.com/ywzBaS0.jpg" group-title="Mexico",Cartoon Network 2 Turgo
 http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/19086?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="MX" tvg-logo="https://i.imgur.com/OMpHZoC.png" group-title="Undefined",Cine Canal Vip
-http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/16370?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="MX" tvg-logo="https://i.pinimg.com/originals/b3/5d/13/b35d13fb9996e6932db680003ccf0220.png" group-title="Undefined",Cinecanal HD
-http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/81868?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="MX" tvg-logo="https://cdn.mitvstatic.com/channels/ar_cinemax-sur_m.png" group-title="Undefined",Cinemax HD
-http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/81859?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="MX" tvg-logo="https://pbs.twimg.com/profile_images/1157334251106381825/3O0jRDbV_400x400.jpg" group-title="Undefined",Cinemax SD
-http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/81691?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AF;DZ;AM;AU;BB;BR;BG;FR;GR;MX;YE" tvg-logo="https://i.imgur.com/M6FFkc3.png" group-title="Classic;FRANCE;MEXICO",Classic Arts Showcase
-https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="MX" tvg-logo="https://i.imgur.com/cHGfy69.jpg" group-title="Undefined",Comedy Central HD
+#EXTINF:0 tvg-country="MX" tvg-logo="https://i.imgur.com/cHGfy69.jpg" group-title="Mexico",Comedy Central HD
 http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/81768?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="MX" tvg-logo="https://i.imgur.com/cHGfy69.jpg" group-title="Undefined",Comedy Central HD
+#EXTINF:0 tvg-country="MX" tvg-logo="https://i.imgur.com/cHGfy69.jpg" group-title="Mexico",Comedy Central HD
 http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/81936?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="MX" tvg-logo="https://www.comteco.com.bo/img/upload/canales/hyh-discovery.png" group-title="Undefined",Cultural
+#EXTINF:0 tvg-country="MX" tvg-logo="https://www.comteco.com.bo/img/upload/canales/hyh-discovery.png" group-title="Mexico",H&H
 http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/19397?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="MX" tvg-logo="http://ltv-reloaded.xyz:2095/images/tvlogos/history.png" group-title="Undefined",Cultural
+#EXTINF:0 tvg-country="MX" tvg-logo="http://ltv-reloaded.xyz:2095/images/tvlogos/history.png" group-title="Mexico",History
 http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/19402?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="MX" tvg-logo="https://www.seekpng.com/png/detail/291-2917130_biblia-png-sin-fondo-history-tv-logo.png" group-title="Undefined",Cultural
+#EXTINF:0 tvg-country="MX" tvg-logo="https://www.seekpng.com/png/detail/291-2917130_biblia-png-sin-fondo-history-tv-logo.png" group-title="Mexico",Cultural
 http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/1132380?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="MX" tvg-logo="https://www.seekpng.com/png/detail/291-2917130_biblia-png-sin-fondo-history-tv-logo.png" group-title="Undefined",Cultural
+#EXTINF:0 tvg-country="MX" tvg-logo="https://www.seekpng.com/png/detail/291-2917130_biblia-png-sin-fondo-history-tv-logo.png" group-title="Mexico",Cultural
 http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/1132379?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="MX" tvg-logo="https://i.imgur.com/0oQmyEn.jpg" group-title="Undefined",Cultural
+#EXTINF:0 tvg-country="MX" tvg-logo="https://i.imgur.com/0oQmyEn.jpg" group-title="Mexico",Cultural
 http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/81633?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="MX" tvg-logo="https://i.imgur.com/0oQmyEn.jpg" group-title="Undefined",Cultural
+#EXTINF:0 tvg-country="MX" tvg-logo="https://i.imgur.com/0oQmyEn.jpg" group-title="Mexico",Cultural
 http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/81645?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="MX" tvg-logo="https://i.imgur.com/0oQmyEn.jpg" group-title="Undefined",Cultural
+#EXTINF:0 tvg-country="MX" tvg-logo="https://i.imgur.com/0oQmyEn.jpg" group-title="Mexico",Cultural
 http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/81655?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="MX" tvg-logo="https://tinyurl.com/y2pkm83w" group-title="Undefined",Cultural
+#EXTINF:0 tvg-country="MX" tvg-logo="https://tinyurl.com/y2pkm83w" group-title="Mexico",Cultural
 http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/81709?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="MX" tvg-logo="https://cdn.mitvstatic.com/channels/co_discovery-science_m.png" group-title="Undefined",Cultural
+#EXTINF:0 tvg-country="MX" tvg-logo="https://cdn.mitvstatic.com/channels/co_discovery-science_m.png" group-title="Mexico",Cultural
 http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/81710?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="MX" tvg-logo="https://i.imgur.com/0oQmyEn.jpg" group-title="Undefined",Cultural
+#EXTINF:0 tvg-country="MX" tvg-logo="https://i.imgur.com/0oQmyEn.jpg" group-title="Mexico",Cultural
 http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/81712?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="MX" tvg-logo="https://www.comteco.com.bo/img/upload/canales/hyh-discovery.png" group-title="Undefined",Cultural
+#EXTINF:0 tvg-country="MX" tvg-logo="https://www.comteco.com.bo/img/upload/canales/hyh-discovery.png" group-title="Mexico",Cultural
 http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/81713?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="MX" tvg-logo="https://www.newslinereport.com/online/nota_animal-planet-renueva-su-imagen-en-america-latina.jpg" group-title="Undefined",Cultural
+#EXTINF:0 tvg-country="MX" tvg-logo="https://www.newslinereport.com/online/nota_animal-planet-renueva-su-imagen-en-america-latina.jpg" group-title="Mexico",Cultural
 http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/81714?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="MX" tvg-logo="https://lapublicidad.net/wp-content/uploads/2017/01/Discovery_Channel_International.jpg" group-title="Undefined",Cultural
+#EXTINF:0 tvg-country="MX" tvg-logo="https://lapublicidad.net/wp-content/uploads/2017/01/Discovery_Channel_International.jpg" group-title="Mexico",Discovery Channel
 http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/81715?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="MX" tvg-logo="https://pbs.twimg.com/profile_images/746351117177479168/MkxvzVVF_400x400.jpg" group-title="Undefined",Cultural
+#EXTINF:0 tvg-country="MX" tvg-logo="https://pbs.twimg.com/profile_images/746351117177479168/MkxvzVVF_400x400.jpg" group-title="Mexico",Cultural
 http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/81716?checkedby:iptvcat.com
