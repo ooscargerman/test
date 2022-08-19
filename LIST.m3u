@@ -1,13 +1,13 @@
 #EXTM3U
 https://cloud01.mipaneltv.xyz/asondesalsa/asondesalsa/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="MX" tvg-logo="http://ltv-reloaded.xyz:2095/images/tvlogos/ae.png" group-title="Mexico",A&E HD
-http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/81947?checkedby:iptvcat.com#EXTINF:-1 tvg-id="" tvg-name="MX (HD) TP LAS ESTRELLAS" tvg-logo=""  group-title="Mexico",MX (HD) TP LAS ESTRELLAS
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/81947?checkedby:iptvcat.com#EXTINF:-1 tvg-id="" tvg-name="MX (HD) TP LAS ESTRELLAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/220px-Las_Estrellas.svg.png"  group-title="Mexico",MX (HD) TP LAS ESTRELLAS
 https://lb.privatevps.org/play/77ahGSVyoi0pvNejtwWQw5ht7grXwxFq1LtUc3-bZP8
-#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP CANAL DE LAS ESTRELLAS" tvg-logo=""  group-title="Mexico",MX (SD) TP CANAL DE LAS ESTRELLAS
+#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP CANAL DE LAS ESTRELLAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/220px-Las_Estrellas.svg.png"  group-title="Mexico",MX (SD) TP CANAL DE LAS ESTRELLAS
 https://lb.privatevps.org/play/77ahGSVyoi0pvNejtwWQwwL590te56GTodCaEBLS1xE
-#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP LAS ESTRELLAS" tvg-logo=""  group-title="Mexico",MX (SD) TP LAS ESTRELLAS
+#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP LAS ESTRELLAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/220px-Las_Estrellas.svg.png"  group-title="Mexico",MX (SD) TP LAS ESTRELLAS
 https://lb.privatevps.org/play/77ahGSVyoi0pvNejtwWQw8_1Q9neQA6sM4r1O2yck_Y
-#EXTINF:-1 tvg-id="" tvg-name="MX TNT HD" tvg-logo=""  group-title="Mexico",MX TNT HD
+#EXTINF:-1 tvg-id="" tvg-name="MX TNT HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/TNT_%28TV_Channel%29.svg/640px-TNT_%28TV_Channel%29.svg.png"  group-title="Mexico",MX TNT HD
 https://lb.privatevps.org/play/77ahGSVyoi0pvNejtwWQw2RQr2wogrrHLMVwkdF7B8k
 #EXTINF:-1 tvg-id="" tvg-name="MX Azteca 7 HD" tvg-logo=""  group-title="Mexico",MX Azteca 7 HD
 https://lb.privatevps.org/play/77ahGSVyoi0pvNejtwWQw3WvCUdi41eYHJ_s4EZNvSM
