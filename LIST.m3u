@@ -1,9 +1,12 @@
 #EXTM3U
 https://cloud01.mipaneltv.xyz/asondesalsa/asondesalsa/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="MX" tvg-logo="http://ltv-reloaded.xyz:2095/images/tvlogos/ae.png" group-title="Mexico",A&E HD
-http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/81947?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="" tvg-name="MX Canal de las Estrellas HD" tvg-logo=""  group-title="Mexico",MX Canal de las Estrellas HD
-https://lb.privatevps.org/play/77ahGSVyoi0pvNejtwWQwz4WjKWeLisIE2W5vlaNhbw
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/81947?checkedby:iptvcat.com#EXTINF:-1 tvg-id="" tvg-name="MX (HD) TP LAS ESTRELLAS" tvg-logo=""  group-title="Mexico",MX (HD) TP LAS ESTRELLAS
+https://lb.privatevps.org/play/77ahGSVyoi0pvNejtwWQw5ht7grXwxFq1LtUc3-bZP8
+#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP CANAL DE LAS ESTRELLAS" tvg-logo=""  group-title="Mexico",MX (SD) TP CANAL DE LAS ESTRELLAS
+https://lb.privatevps.org/play/77ahGSVyoi0pvNejtwWQwwL590te56GTodCaEBLS1xE
+#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP LAS ESTRELLAS" tvg-logo=""  group-title="Mexico",MX (SD) TP LAS ESTRELLAS
+https://lb.privatevps.org/play/77ahGSVyoi0pvNejtwWQw8_1Q9neQA6sM4r1O2yck_Y
 #EXTINF:-1 tvg-id="" tvg-name="MX TNT HD" tvg-logo=""  group-title="Mexico",MX TNT HD
 https://lb.privatevps.org/play/77ahGSVyoi0pvNejtwWQw2RQr2wogrrHLMVwkdF7B8k
 #EXTINF:-1 tvg-id="" tvg-name="MX Azteca 7 HD" tvg-logo=""  group-title="Mexico",MX Azteca 7 HD
