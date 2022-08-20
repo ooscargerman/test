@@ -3,6 +3,8 @@ https://cloud01.mipaneltv.xyz/asondesalsa/asondesalsa/playlist.m3u8?checkedby:ip
 #EXTINF:0 tvg-country="MX" tvg-logo="http://ltv-reloaded.xyz:2095/images/tvlogos/ae.png" group-title="Mexico",A&E HD
 http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/81947?checkedby:iptvcat.com#EXTINF:-1 tvg-id="" tvg-name="MX (HD) TP LAS ESTRELLAS" tvg-logo="https://i.imgur.com/PCqf7zT.png"  group-title="Mexico",MX (HD) TP LAS ESTRELLAS
 https://lb.privatevps.org/play/77ahGSVyoi0pvNejtwWQw5ht7grXwxFq1LtUc3-bZP8
+#EXTINF:-1 tvg-id="679" tvg-name="Telemax Hermosillo" tvg-logo="https://i2.paste.pics/8a2bf919d229e094124cd4739b4c6c7c.png", Telemax Hermosillo | MX
+https://60ed5b6d0df78.streamlock.net:1936/telemax/telemax/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP CANAL DE LAS ESTRELLAS" tvg-logo="https://i.imgur.com/PCqf7zT.png"  group-title="Mexico",MX (SD) TP CANAL DE LAS ESTRELLAS
 https://lb.privatevps.org/play/77ahGSVyoi0pvNejtwWQwwL590te56GTodCaEBLS1xE
 #EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP LAS ESTRELLAS" tvg-logo="https://i.imgur.com/PCqf7zT.png"  group-title="Mexico",MX (SD) TP LAS ESTRELLAS
